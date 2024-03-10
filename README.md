@@ -1,6 +1,6 @@
 # 5x5 Tic-Tac-Toe Solver
 
-![Tic-Tac-Toe]([tictactoe_image.png](https://github.com/tranductri2003/tictactoe-5x5-minimax-website/assets/89126960/d0975c4c-539b-4b8b-b420-0a1e07138238))
+![Tic-Tac-Toe]([tictactoe_image.png](https://private-user-images.githubusercontent.com/89126960/311526526-d0975c4c-539b-4b8b-b420-0a1e07138238.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAwOTAxMTcsIm5iZiI6MTcxMDA4OTgxNywicGF0aCI6Ii84OTEyNjk2MC8zMTE1MjY1MjYtZDA5NzVjNGMtNTM5Yi00YjhiLWI0MjAtMGExZTA3MTM4MjM4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzEwVDE2NTY1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU2ZGQxMmVkNDU3YTg3NjIwMDRiMjMzMGY4NGU4ZTYwMDBjMDZhOGUyOGYwMGE5MzNhMWU4MGZmNzU0MjFhODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1L_PdT6VOoiVMgyLTnNBcOUGYIitInr0PeopyhWevAo)
 
 This is a pet project developed during my learning journey. It's a 5x5 Tic-Tac-Toe game with an AI opponent implemented using the minimax algorithm. The game is hosted at [http://tictactoe5x5.lqdlover.id.vn/](http://tictactoe5x5.lqdlover.id.vn/).
 
@@ -20,7 +20,7 @@ To play the game, simply visit [http://tictactoe5x5.lqdlover.id.vn/](http://tict
 
 ## Preview
 
-![Game Preview]([game_preview.png](https://github.com/tranductri2003/tictactoe-5x5-minimax-website/assets/89126960/75585a65-611b-401d-a51b-55cfc326270e))
+![Game Preview]([game_preview.png](https://private-user-images.githubusercontent.com/89126960/311526718-75585a65-611b-401d-a51b-55cfc326270e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTAwOTAxMTcsIm5iZiI6MTcxMDA4OTgxNywicGF0aCI6Ii84OTEyNjk2MC8zMTE1MjY3MTgtNzU1ODVhNjUtNjExYi00MDFkLWE1MWItNTVjZmMzMjYyNzBlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzEwVDE2NTY1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1ZmNlZDg4NjY4MjRjY2MxNzU5ZThhYTI1YTAxZmM2YzQ0MDM0ZjAyNDQyNTgzNDM0NTg0NjY0MDBkYTNkZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6QNNph08oTCdfmcAHQBp-CPwulRy4_yFS1HijNTvmhY)
 
 ## Contributing
 
