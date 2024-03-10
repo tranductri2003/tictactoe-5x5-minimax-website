@@ -202,8 +202,8 @@ footer_text = """
 - **Repository:** [tranductri2003](https://github.com/tranductri2003/tictactoe-5x5-minimax-website)
 
 ### Another Game
-- **8 Puzzles:** [8 Puzzles Game](http://lqdlover.ddns.net:8500/)
-- **5x5 TicTacToe:** [5x5 TicTacToe](http://lqdlover.ddns.net:8501/)
+- **8 Puzzles:** [8 Puzzles Game](http://8puzzlesolver.lqdlover.id.vn:8502/)
+- **5x5 TicTacToe:** [5x5 TicTacToe](http://tictactoe5x5.lqdlover.id.vn/)
 """
 
 # Add footer to the app
